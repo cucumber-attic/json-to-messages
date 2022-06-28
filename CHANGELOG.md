@@ -85,16 +85,16 @@ This should have been 2.0.0, but was accidentally released as 6.0.0.
 * First release
 
 <!-- Releases -->
-[Unreleased]: https://github.com/cucumber/cucumber/compare/json-to-messages/v10.0.0...main
-[10.0.0]: https://github.com/cucumber/cucumber/compare/json-to-messages/v9.0.0...json-to-messages/v10.0.0
-[9.0.0]: https://github.com/cucumber/cucumber/compare/json-to-messages/v8.0.0...json-to-messages/v9.0.0
-[8.0.0]: https://github.com/cucumber/cucumber/compare/json-to-messages/v7.0.0...json-to-messages/v8.0.0
-[7.0.0]: https://github.com/cucumber/cucumber/compare/json-to-messages/v6.0.0...json-to-messages/v7.0.0
-[6.0.0]: https://github.com/cucumber/cucumber/compare/json-to-messages/v1.1.0...json-to-messages/v6.0.0
-[1.1.0]: https://github.com/cucumber/cucumber/compare/json-to-messages/v1.0.2...json-to-messages/v1.1.0
-[1.0.2]: https://github.com/cucumber/cucumber/compare/json-to-messages/v1.0.1...json-to-messages/v1.0.2
-[1.0.1]: https://github.com/cucumber/cucumber/compare/json-to-messages/v1.0.0...json-to-messages/v1.0.1
-[1.0.0]: https://github.com/cucumber/cucumber/compare/json-to-messages/v1.0.0
+[Unreleased]: https://github.com/cucumber/json-to-messages/compare/v10.0.0...main
+[10.0.0]: https://github.com/cucumber/json-to-messages/compare/v9.0.0...v10.0.0
+[9.0.0]: https://github.com/cucumber/json-to-messages/compare/v8.0.0...v9.0.0
+[8.0.0]: https://github.com/cucumber/json-to-messages/compare/v7.0.0...v8.0.0
+[7.0.0]: https://github.com/cucumber/json-to-messages/compare/v6.0.0...v7.0.0
+[6.0.0]: https://github.com/cucumber/json-to-messages/compare/v1.1.0...v6.0.0
+[1.1.0]: https://github.com/cucumber/json-to-messages/compare/v1.0.2...v1.1.0
+[1.0.2]: https://github.com/cucumber/json-to-messages/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/cucumber/json-to-messages/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/cucumber/json-to-messages/compare/v1.0.0
 
 <!-- Contributors in alphabetical order -->
 [aslakhellesoy]:     https://github.com/aslakhellesoy
